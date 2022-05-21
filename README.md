@@ -1,0 +1,2 @@
+# cfg-static
+Dotfiles (WIP)
